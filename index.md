@@ -85,6 +85,7 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 ## Cómo participar
 
 [FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdXoL5vb_lcwxh7XWee_htsxfBPPiichT_k9RV2ZoST1naicA/viewform)
+
 Todos los datos se manejarán de forma confidencial. Sólo podrán publicarse de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.
 
 ## ¡Sírvete sin culpa!
