@@ -11,5 +11,5 @@
 "episodes/ResultadosAbiertosE4.Rmd" "0f10ede20b3d875d89c020ab93e90c78" "site/built/ResultadosAbiertosE4.md" "2026-03-10"
 "instructors/instructor-notes.md" "cae72b6712578d74a49fea7513099f8c" "site/built/instructor-notes.md" "2026-03-10"
 "learners/reference.md" "28c58b95102e9d80505c0cb2d1d4ea41" "site/built/reference.md" "2026-03-10"
-"profiles/learner-profiles.md" "91df1e8b874ce4dcf5737575c01052c9" "site/built/learner-profiles.md" "2026-03-10"
+"profiles/learner-profiles.md" "540c3528ed7d5f8f3a9e101d6ae9c9e5" "site/built/learner-profiles.md" "2026-03-10"
 "renv/profiles/lesson-requirements/renv.lock" "23d85500c2f95e0218815a6aaf303981" "site/built/renv.lock" "2026-03-10"
