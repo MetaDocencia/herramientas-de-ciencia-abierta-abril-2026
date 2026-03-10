@@ -13,7 +13,7 @@ MetaDocencia, con el apoyo de **NASA Open Science**, invita a personas de comuni
 
 La formación será **virtual, gratuito** y **100% en español**. Quienes participen activamente recibirán certificaciones de **MetaDocencia** y de **NASA Open Science**.
 
-
+[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdXoL5vb_lcwxh7XWee_htsxfBPPiichT_k9RV2ZoST1naicA/viewform)
 
 ## Motivaciones para participar
 
@@ -84,7 +84,8 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 ## Cómo participar
 
-Anunciaremos la apertura e instrucciones para inscribirte en este curso a través de nuestras redes sociales, nuestro boletín y nuestro Slack comunitario. Si aún no recibes estos medios de comunicación, ¡[súmate](https://metadocencia.org/cta/)!
+[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdXoL5vb_lcwxh7XWee_htsxfBPPiichT_k9RV2ZoST1naicA/viewform)
+Todos los datos se manejarán de forma confidencial. Sólo podrán publicarse de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.
 
 ## ¡Sírvete sin culpa!
 
