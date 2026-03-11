@@ -11,7 +11,7 @@ MetaDocencia, con el apoyo de **NASA Open Science**, invita a personas de comuni
 
 **Herramientas de Ciencia Abierta** es un curso virtual de formación de **4 semanas**. Se enfoca en compartir conocimiento con mirada local y facilitar la implementación de principios y prácticas de Ciencia Abierta a partir del encuentro entre pares, el intercambio de recursos comprobados y referencias accesibles, y el análisis de situaciones y ejemplos vinculados a experiencias de comunidades hispanohablantes.
 
-La formación será **virtual, gratuito** y **100% en español**. Quienes participen activamente recibirán certificaciones de **MetaDocencia** y de **NASA Open Science**.
+La formación será **virtual, gratuita** y **100% en español**. Se realizará los miércoles 15, 22 y 29 de abril y 6 de mayo, de 10 a 12.30 h (UTC-3, Buenos Aires, Argentina). Quienes participen activamente recibirán certificaciones de **MetaDocencia** y de **NASA Open Science**.
 
 [FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdXoL5vb_lcwxh7XWee_htsxfBPPiichT_k9RV2ZoST1naicA/viewform)
 
@@ -48,7 +48,6 @@ Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia
 - Desarrollo en profundidad y práctica extensiva de los principios de Ciencia Abierta.
 - Teoría de la ciencia o la epistemología.
 - Uso de Ciencia Abierta enfocado en disciplinas específicas.
-
 
 
 ## Duración
@@ -90,7 +89,7 @@ Todos los datos se manejarán de forma confidencial. Sólo podrán publicarse de
 
 ## ¡Sírvete sin culpa!
 
-¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo licencia **CC BY 4.0**. Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas; lo único que pedimos a cambio es que incluyas una referencia a esta página web.
+¿Te viene bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo licencia **CC BY 4.0**. Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas; lo único que pedimos a cambio es que incluyas una referencia a esta página web.
 
 Para más información, escríbenos a: **formacion@metadocencia.org**.
 
