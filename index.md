@@ -63,10 +63,10 @@ En el primer encuentro se definirá qué es la Ciencia Abierta y algunas de sus 
 
 |  | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
-| Primera semana de 10 a 12.30 (UTC-3) | [*Fundamentos de Ciencia Abierta*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/FundamentosE1.html) | 
-| Segunda semana de 10 a 12.30 (UTC-3) | [*Datos Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/DatosAbiertosE2.html) | 
-| Tercera semana de 10 a 12.30 (UTC-3) | [*Código Abierto*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/CodigoAbiertoE3.html) |
-| Cuarta semana de 10 a 12.30 (UTC-3) | [*Resultados Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/ResultadosAbiertosE4.html) |
+| 15/4 de 10 am - 12.30 pm (UTC -3) | [*Fundamentos de Ciencia Abierta*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/FundamentosE1.html) | 
+| 22/4 de 10 am - 12.30 pm (UTC -3) | [*Datos Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/DatosAbiertosE2.html) | 
+| 29/4 de 10 am - 12.30 pm (UTC -3) | [*Código Abierto*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/CodigoAbiertoE3.html) |
+| 06/5 de 10 am - 12.30 pm (UTC -3) | [*Resultados Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/ResultadosAbiertosE4.html) |
 
 Para aumentar la accesibilidad de esta formación, grabaremos cada encuentro y compartiremos su grabación al día siguiente. 
 
