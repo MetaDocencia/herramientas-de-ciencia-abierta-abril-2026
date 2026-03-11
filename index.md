@@ -11,7 +11,7 @@ MetaDocencia, con el apoyo de **NASA Open Science**, invita a personas de comuni
 
 **Herramientas de Ciencia Abierta** es un curso virtual de formación de **4 semanas**. Se enfoca en compartir conocimiento con mirada local y facilitar la implementación de principios y prácticas de Ciencia Abierta a partir del encuentro entre pares, el intercambio de recursos comprobados y referencias accesibles, y el análisis de situaciones y ejemplos vinculados a experiencias de comunidades hispanohablantes.
 
-La formación será **virtual, gratuita** y **100% en español**. Se realizará los miércoles 15, 22 y 29 de abril y 6 de mayo, de 10 a 12.30 h (UTC-3, Buenos Aires, Argentina). Quienes participen activamente recibirán certificaciones de **MetaDocencia** y de **NASA Open Science**.
+La formación será **virtual, gratuita** y **100% en español**. Se realizará los miércoles 15, 22 y 29 de abril y 6 de mayo, de 10 a 12.30 h (UTC-3). Quienes participen activamente recibirán certificaciones de **MetaDocencia** y de **NASA Open Science**.
 
 [FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdXoL5vb_lcwxh7XWee_htsxfBPPiichT_k9RV2ZoST1naicA/viewform)
 
@@ -63,10 +63,10 @@ En el primer encuentro se definirá qué es la Ciencia Abierta y algunas de sus 
 
 |  | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
-| Primera semana de 0 a 2:30 hs | [*Fundamentos de Ciencia Abierta*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/FundamentosE1.html) | 
-| Segunda semana de 0 a 2:30 hs | [*Datos Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/DatosAbiertosE2.html) | 
-| Tercera semana de 0 a 2:30 hs | [*Código Abierto*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/CodigoAbiertoE3.html) |
-| Cuarta semana de 0 a 2:30 hs | [*Resultados Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/ResultadosAbiertosE4.html) |
+| Primera semana de 10 a 12.30 (UTC-3) | [*Fundamentos de Ciencia Abierta*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/FundamentosE1.html) | 
+| Segunda semana de 10 a 12.30 (UTC-3) | [*Datos Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/DatosAbiertosE2.html) | 
+| Tercera semana de 10 a 12.30 (UTC-3) | [*Código Abierto*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/CodigoAbiertoE3.html) |
+| Cuarta semana de 10 a 12.30 (UTC-3) | [*Resultados Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-abril-2026/ResultadosAbiertosE4.html) |
 
 Para aumentar la accesibilidad de esta formación, grabaremos cada encuentro y compartiremos su grabación al día siguiente. 
 
