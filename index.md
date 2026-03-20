@@ -3,7 +3,7 @@ site: sandpaper::sandpaper_site
 title: "Herramientas de Ciencia Abierta"
 ---
 
-![ ](episodes/fig/HCA1.jpg)
+![ ](episodes/fig/HCA2.jpg)
 
 ## Descripción del curso
 
