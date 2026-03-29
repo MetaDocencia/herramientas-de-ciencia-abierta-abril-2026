@@ -3,7 +3,7 @@ site: sandpaper::sandpaper_site
 title: "Herramientas de Ciencia Abierta"
 ---
 
-![ ](episodes/fig/HCA4.jpg)
+![ ](episodes/fig/HCACUPOSAGOTADOS.jpg)
 
 ## Descripción del curso
 
@@ -13,7 +13,6 @@ MetaDocencia, con el apoyo de **NASA Open Science**, invita a personas de comuni
 
 La formación será **virtual, gratuita** y **100% en español**. Se realizará los miércoles 15, 22 y 29 de abril y 6 de mayo, de 10 a 12.30 h (UTC-3). Quienes participen activamente recibirán certificaciones de **MetaDocencia** y de **NASA Open Science**.
 
-[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdXoL5vb_lcwxh7XWee_htsxfBPPiichT_k9RV2ZoST1naicA/viewform)
 
 ## Motivaciones para participar
 
@@ -83,9 +82,8 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 ## Cómo participar
 
-[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSdXoL5vb_lcwxh7XWee_htsxfBPPiichT_k9RV2ZoST1naicA/viewform)
-
-Todos los datos se manejarán de forma confidencial. Sólo podrán publicarse de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.
+¡Muchas gracias por tu interés en inscribirte al curso Herramientas de Ciencia Abierta!
+Los lugares para esta formación se han agotado. Si quieres participar de próximas ediciones, te invitamos a [sumarte a nuestro Slack](https://w3id.org/metadocencia/slack) para enterarte antes que nadie cuando abramos inscripciones, además de acceder a intercambios, novedades y recursos de la comunidad.
 
 ## ¡Sírvete sin culpa!
 
